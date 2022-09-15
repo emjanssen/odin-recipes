@@ -1,0 +1,47 @@
+body {
+  background-color: rgb(146, 192, 235);
+  font-size: 20px;
+  color: rgb(82, 18, 134);
+}
+
+p {
+  color: rgb(95, 10, 10);
+}
+
+h1 {
+  color:rgb(9, 54, 9);
+  font-size: 40px;
+}
+
+div {
+  background-color: rgb(167, 149, 211);
+  width:fit-content;
+  height:fit-content;
+}
+
+span {
+  color:rgba(24, 112, 75, 0.918);
+}
+
+h3 {
+  color:rgb(43, 226, 104);
+  font-size: larger;
+}
+
+.spaghetti-ingredients {
+  background-color: black;
+  width:fit-content;
+  height:fit-content;
+}
+
+.bites-ingredients {
+  background-color: black;
+  width:fit-content;
+  height:fit-content;
+}
+
+.chicken-ingredients {
+  background-color: black;
+  width:fit-content;
+  height:fit-content;
+}
